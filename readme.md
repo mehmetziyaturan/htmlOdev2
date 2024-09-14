@@ -1,6 +1,6 @@
-# kodluyoruz html Odev 2
+# Hakkımda Flimler, Diziler ve Kitaplar
 
-[Patika.dev](https://www.patika.dev) Html eğitiminde 2.ödev. Konu içeriği listeler,linkler,görseller ve blok/inline elementler.
+Konu içeriği listeler,linkler,görseller ve blok/inline elementler.
 
 ![proje resmi1](img/png1.PNG)
 ![proje resmi2](img/png2.PNG)
